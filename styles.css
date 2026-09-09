@@ -1,0 +1,15 @@
+.mg-footer {
+    position:fixed;
+    bottom:0;
+    right:0;
+    padding:5px 10px;
+    font-size: 14px;    
+    background: #5693bb;
+    color: #fff;
+    border-top-left-radius: 3px;
+    /* border-bottom-left-radius: 3px; */
+}
+
+.mg-footer a {
+    color: #fff;
+}

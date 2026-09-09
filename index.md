@@ -8,4 +8,6 @@ title: 0 to 200 | Matt Gardner
 
 ---
 
-_[Matt Gardner](https://mattgardner.com) made this._
+{% include principles.md %}
+
+{% include footer.html %}
